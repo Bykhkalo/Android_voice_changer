@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VoiceChangeExample</string>
+    <string name="content_description_microphone_image">microphone image</string>
+</resources>
